@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../ix.svg">
+<img src="./ix.svg">
 </p>
 
 ## -- INTERNETX --
