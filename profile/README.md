@@ -1,3 +1,7 @@
+<p align="center">
+<img src="../ix.svg">
+</p>
+
 ## -- INTERNETX --
 
 InternetX it's an actual web browser, haves good security, too have more much things. This project is Open-Source!
