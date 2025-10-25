@@ -1,6 +1,4 @@
-<p align="center">
-<img src="./ix.svg">
-</p>
+<div align="center"><img src="../ix.svg"></div>
 
 ## -- INTERNETX --
 
@@ -81,3 +79,5 @@ Execute with Git this command:
 </details>
 
 It's all, bye!
+
+<sub>:computer: We are working much in `ix-sitec` now.</sub>
