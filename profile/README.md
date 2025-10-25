@@ -1,4 +1,4 @@
-<div align="center"><img src="../ix.svg"></div>
+<div align="center"><img src="./ix.svg"></div>
 
 ## -- INTERNETX --
 
