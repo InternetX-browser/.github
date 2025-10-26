@@ -1,4 +1,4 @@
-<div align="center"><img src="./ix.svg"></div>
+<div align="center"><img src="https://d3q44e7ubi1hi2.cloudfront.net/2bd5y%2Fpreview%2F72137135%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1761499777&Signature=ONM1MSA8Up6aDkZ4YCrDOzd4AV9~bMjdUT8KO38gc85vBOgnaOXj7WgniCRg5wicAeQvSBWxCYokeD4rgnWlXsJbUmDgHLPvyKqK2HNEtUzN6SjDX-0EY78iifCgryHHDoAFVg6H3g-uq50~ZN~iqzmzKEPP8WFHcN4e87XplmMJ05s9vD9aBB0Kp4BxNspLbbvrFGDvnpDpMaU3uxvN2GkoEhryE7oxo9FxDXF2DOyFzaPvO~GdIkJsVoSTOxYrLjvIJr7nmLGNNTDfxzkApDqiUHpDYFHNFcBMK004teXYR-znIsUl8d8XKH5oeLz-Nje297uKk51SyjvtuM43Zw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"/></div>
 
 ## -- INTERNETX --
 
